@@ -42,17 +42,16 @@ External APIs Used
 API Name	Purpose
 OpenWeather Geocoding API	converts user-inputted city names to latitude and longitude
 OpenWeather Air Pollution API	provides real-time AQI and pollutant data (CO, NO2, O3, PM2.5, etc.)
-Browser Geolocation API	retrieves the user's location directly from the browser
+Browser Geolocation API	  retrieves the user's location directly from the browser
 
 Known Bugs / Limitations
-API rate limits may cause temporary issues when too many requests are made.
+- API rate limits may cause temporary issues when too many requests are made.
 
-Supabase write operations may be delayed depending on internet speed and tier.
+- Supabase write operations may be delayed depending on internet speed and tier.
 
-Roadmap for Future Development
+**Roadmap for Future Development**
+- Let users set daily or weekly air quality alerts
 
-Let users set daily or weekly air quality alerts
+- Include health recommendations based on AQI score
 
-Include health recommendations based on AQI score
-
-Add test coverage for custom APIs 
+- Add test coverage for custom APIs 
