@@ -49,7 +49,7 @@ Known Bugs / Limitations
 
 - Supabase write operations may be delayed depending on internet speed and tier.
 
-**Roadmap for Future Development**
+Roadmap for Future Development
 - Let users set daily or weekly air quality alerts
 
 - Include health recommendations based on AQI score
